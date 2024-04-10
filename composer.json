@@ -3,7 +3,7 @@
     "description": "candy(model)",
     "type": "library",
     "license": "MIT",
-    "minimun-stability": "dev",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.4"
     },
