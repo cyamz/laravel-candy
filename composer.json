@@ -1,6 +1,9 @@
 {
     "name": "cyamz/laravel-candy",
     "description": "candy(model)",
+    "type": "library",
+    "license": "MIT",
+    "minimun-stability": "dev",
     "require": {
         "php": ">=7.4"
     },
@@ -12,7 +15,7 @@
     "authors": [
         {
             "name": "zsy",
-            "email": "bigdzsy@gmail.com"
+            "email": "cy_amz@126.com"
         }
     ]
 }
