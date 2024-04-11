@@ -1,6 +1,8 @@
 {
     "name": "cyamz/laravel-candy",
     "description": "candy(model)",
+    "license": "MIS",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.4"
     },
